@@ -1,0 +1,7 @@
+
+# Lê 2 bytes, soma (mod 256) e imprime como caractere
+READ
+READ
+ADD
+PRINT
+HALT
